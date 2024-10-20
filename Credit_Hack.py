@@ -1,3 +1,3 @@
-from HackCredit import main
+from hackcredit import main
 
 main()
