@@ -1,1 +1,1 @@
-from hackcredit import main
+import hackcredit
